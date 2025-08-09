@@ -1,26 +1,26 @@
-# pico_bot y mando
+# pico\_bot y mando
+
 ## Características pico bot
 
-- Modo autónomo con escaneo de obstáculos
-- Control a través de mando  UART
-- Sensor ultrasónico montado en servomotor
-- LEDs indicadores, zumbador y melodías
-- Baliza luminosa
-- Compatible con MicroPython
+* Modo autónomo con escaneo de obstáculos
+* Control a través de mando  UART
+* Sensor ultrasónico
+* LEDs indicadores, zumbador y melodías
+* Baliza luminosa
+* Compatible con MicroPython
+* Pines para conexión de modulos 
 
-## Características mando 
-
-- Stick para control 
-- Pantalla oled para visualizacion de control
-- 6 pulsadores luces blanca, rojas,verdes,bocina,modo autonomo y melodia 
 ## Codigos
 
-- Pico_bot.py: codigo completo 
-- mando.py codigo: para el mando
-- Motores y servo.py: codigo de prueba  motores y servo
-- Pico bot con mando y servo.py: codigo completo para robot con servo que mueve el ultrasonido
-
-## Libreria
-- ssd1306.py: libreria para para la oled del del mando
- 
-  
+* Lección 1: Control de LEDs con Raspberry Pi Pico
+* Lección 2: Parpadeo secuencial de LEDs con ciclo for
+* Lección 3: Parpadeo de LEDs sin ciclo infinito
+* Lección 4: Modularización con funciones para controlar LEDs
+* Lección 5: Sensor de luz con módulo LDR
+* Lección 6: Uso de un buzzer con PWM
+* Lección 7: Reproducción de melodías con PWM y diccionarios
+* Lección 8: Reproducción de melodía con luces sincronizadas (Jingle Bells)
+* Lección 9: Reproducción paralela de melodía y luces usando los dos núcleos de la Raspberry Pi Pico
+* Lección 10: Movimiento autónomo con sensor ultrasónico y LEDs
+* Lección 11: Control del PICO BOT por Bluetooth
+* 
